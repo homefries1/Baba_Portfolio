@@ -6,3 +6,5 @@ Data Analytics Portfolio
 * Created a query that collects the salary data, birthplace, and birthdate of HOF inductees 
 * Provides an timelasped overview of the geographical expansion of HOF inductees 
     # [Example Tableau Visualization](https://public.tableau.com/app/profile/baba.ige/viz/BaseballHallofFameInducteesPlayersAndtheirRespectivePlaceofBirth/Dashboard22)
+# [Project 2: NYC McFlurry Visualization:
+    # [Tableau Visualization] (https://public.tableau.com/views/NYCMcFlurry/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
